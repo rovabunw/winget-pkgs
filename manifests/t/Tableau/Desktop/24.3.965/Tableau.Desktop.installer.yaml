@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: Tableau.Desktop
-PackageVersion: 24.3.965
+PackageVersion: 2024.3.4
 InstallerType: burn
 Scope: machine
 InstallerSwitches:
@@ -36,3 +36,4 @@ Installers:
   InstallerSha256: FCF55EEB582B080AF3480A1B41875ABF0DD0E9913150C91C6D2C240514F2CF88
 ManifestType: installer
 ManifestVersion: 1.9.0
+
