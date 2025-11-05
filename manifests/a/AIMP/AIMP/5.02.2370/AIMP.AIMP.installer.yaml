@@ -20,7 +20,7 @@ UpgradeBehavior: install
 Commands:
 - AIMP
 FileExtensions:
-- .spx
+- spx
 - aac
 - ac3
 - ape
