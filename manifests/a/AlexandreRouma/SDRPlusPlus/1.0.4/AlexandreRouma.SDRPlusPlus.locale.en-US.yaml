@@ -7,7 +7,7 @@ PackageIdentifier: AlexandreRouma.SDRPlusPlus
 PackageVersion: 1.0.4
 PackageLocale: en-US
 Publisher: AlexandreRouma
-PackageName: SDRPlusPlus
+PackageName: SDR++
 License: GPL-3.0 license
 ShortDescription: Cross-Platform SDR Software
 Tags:
@@ -24,4 +24,5 @@ Tags:
 - rtl-sdr
 ManifestType: defaultLocale
 ManifestVersion: 1.9.0
+
 
